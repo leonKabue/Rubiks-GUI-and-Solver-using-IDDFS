@@ -8,17 +8,17 @@
 
 ## Installation
 ### Clone the Repository
-You can download the program by cloning the repository. Run the following command:
+##### You can download the program by cloning the repository. Run the following command:
 
 ##### git clone https://github.com/leonKabue/Rubiks-GUI-and-Solver-using-IDDFS
 
 ### Manual Download
-Alternatively, you can manually download the two required files:
+##### Alternatively, you can manually download the two required files:
 
 #### rubiks_cube_gui.py
 #### rubiks_cube_solver.py
 
-Ensure both files are in the same directory.
+##### Ensure both files are in the same directory.
 
 ## How to Run the Program
 ##### Download both rubiks_cube_gui.py and rubiks_cube_solver.py and place them in the same folder.
