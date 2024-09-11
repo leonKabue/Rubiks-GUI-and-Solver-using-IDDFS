@@ -9,13 +9,15 @@ Graphical User Interface (GUI): A user-friendly interface to interact with the c
 ## Installation
 ### Clone the Repository
 You can download the program by cloning the repository. Run the following command:
-### git clone https://github.com/leonKabue/Rubiks-GUI-and-Solver-using-IDDFS
+
+#### git clone https://github.com/leonKabue/Rubiks-GUI-and-Solver-using-IDDFS
 
 ### Manual Download
 Alternatively, you can manually download the two required files:
 
 #### rubiks_cube_gui.py
 #### rubiks_cube_solver.py
+
 Ensure both files are in the same directory.
 
 ## How to Run the Program
@@ -23,7 +25,9 @@ Download both rubiks_cube_gui.py and rubiks_cube_solver.py and place them in the
 Make sure you have Python installed (preferably version 3.x).
 Navigate to the folder where both files are located.
 Run the GUI script by executing the following command in your terminal:
+
 #### python rubiks_cube_gui.py
+
 This will launch the graphical interface where you can interact with the cube and test the solver.
 
 ## Usage
