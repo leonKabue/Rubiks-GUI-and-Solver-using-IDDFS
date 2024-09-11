@@ -1,5 +1,5 @@
 # Rubik's Cube Solver
-This is a Python-based Rubik’s Cube solver that includes both a graphical user interface (GUI) and a solving algorithm based on the Iterative Deepening Depth-First Search (IDDFS) algorithm. It currently supports Rubik's cubes of different sizes, with the default set to a 3x3 cube.
+##### This is a Python-based Rubik’s Cube solver that includes both a graphical user interface (GUI) and a solving algorithm based on the Iterative Deepening Depth-First Search (IDDFS) algorithm. It currently supports Rubik's cubes of different sizes, with the default set to a 3x3 cube.
 
 ## Features
 ##### IDDFS Solver: The solver uses the IDDFS algorithm to solve the cube. The current version supports solving scrambles up to depth 6. A new version with deeper scrambling support is in development.
@@ -31,8 +31,8 @@ Ensure both files are in the same directory.
 ##### This will launch the graphical interface where you can interact with the cube and test the solver.
 
 ## Usage
-Cube Sizes: By default, the program solves a 3x3 Rubik’s cube, but you can choose other sizes like 4x4, etc.
-Solver Limitations: At the moment, the program can solve scrambles with a maximum of 6 moves. A future update will increase this depth.
+##### Cube Sizes: By default, the program solves a 3x3 Rubik’s cube, but you can choose other sizes like 4x4, etc.
+##### Solver Limitations: At the moment, the program can solve scrambles with a maximum of 6 moves. A future update will increase this depth.
 
 ## Requirements
 ##### Python 3.x
